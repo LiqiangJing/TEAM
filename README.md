@@ -1,3 +1,18 @@
 # TEAM
-This the code implementation  of paper ''Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation
-'' published on the conference ACL 2023.
+This repo holds codes of the paper: ''Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation '' published on the conference ACL 2023.
+
+
+## Citation
+
+If you find this repo useful in your research works, please consider citing:
+
+```
+@inproceedings{jing2023acl,
+author = {Jing, Liqiang and Tian, Minghui and Chen, Xiaolin and Sun, Teng and Guan, Weili and Song, Xuemeng},
+title = {Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation},
+year = {2023},
+publisher = {Association for Computational Linguistics},
+booktitle = {Proceedings of the Annual Meeting of the Association for Computational Linguistics},
+pages = {}
+}
+```
