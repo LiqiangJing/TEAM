@@ -3,7 +3,7 @@ This repo holds codes of the paper: ''Multi-source Semantic Graph-based Multimod
 
 
 ## Run
-
+python bsl_train.py
 
 ## Citation
 
