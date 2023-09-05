@@ -1,5 +1,5 @@
 # TEAM
-This repo holds codes of the paper: ''Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation '' published on the conference ACL 2023.
+This repo holds codes of the paper: ''Multi-source Semantic Graph-based Multimodal Sarcasm Explanation Generation '' published on the conference ACL 2023. https://aclanthology.org/2023.acl-long.635/
 
 ## Related Data
 You can downloand caption data, knowledge, objects and and adjacent matrix via the link: https://drive.google.com/drive/folders/13vuYwJzGEnvV3r-gJxihVNjvIiuGrO6q?usp=share_link.
